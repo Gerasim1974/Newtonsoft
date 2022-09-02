@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GmUcyhWpDFOTwFxWeJNsOxyMDw4XaPD6u7xolzgjN7MclCqEibSuGS1lZGrBflTpIwvpHyNvIgBgfJFMk8SSA==",
+  "success": true,
+  "projectFilePath": "C:\\WorkProgramm\\HomeWork12\\slnHomeWork12\\appHomeWork12\\appHomeWork12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПК\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

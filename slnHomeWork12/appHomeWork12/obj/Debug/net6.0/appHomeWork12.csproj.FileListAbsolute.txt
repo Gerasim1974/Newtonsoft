@@ -1,0 +1,17 @@
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\appHomeWork12.exe
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\appHomeWork12.deps.json
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\appHomeWork12.runtimeconfig.json
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\appHomeWork12.dll
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\appHomeWork12.pdb
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.csproj.CopyComplete
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.dll
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\refint\appHomeWork12.dll
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.pdb
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\appHomeWork12.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork12\slnHomeWork12\appHomeWork12\obj\Debug\net6.0\ref\appHomeWork12.dll
